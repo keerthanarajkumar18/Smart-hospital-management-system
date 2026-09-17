@@ -1,0 +1,51 @@
+[
+    {
+        "doctor_id": "D001",
+        "name": "Dr. Smith",
+        "specialization": "Cardiology",
+        "department": "Heart",
+        "available_slots": [
+            "10:00",
+            "11:00"
+        ]
+    },
+    {
+        "doctor_id": "D002",
+        "name": "Dr. Jones",
+        "specialization": "Neurology",
+        "department": "Brain",
+        "available_slots": [
+            "2026-09-16 10:00"
+        ]
+    },
+    {
+        "doctor_id": "D003",
+        "name": "Ken",
+        "specialization": "Cardiology",
+        "department": "Hear",
+        "available_slots": [
+            "2026-09-16 10:00",
+            "2026-09-16 11:00"
+        ]
+    },
+    {
+        "doctor_id": "D004",
+        "name": "Shalini",
+        "specialization": "Opthamologist",
+        "department": "Eye",
+        "available_slots": [
+            "2026-09-18 04:00",
+            "2026-09-19 09:00",
+            "2026-09-17 12:00"
+        ]
+    },
+    {
+        "doctor_id": "D005",
+        "name": "Raquel",
+        "specialization": "Cardiology",
+        "department": "Heart",
+        "available_slots": [
+            "2026-09-17 12:00"
+        ]
+    }
+]

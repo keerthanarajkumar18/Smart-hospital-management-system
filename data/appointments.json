@@ -1,0 +1,37 @@
+[
+    {
+        "appointment_id": "A001",
+        "patient_id": "P001",
+        "doctor_id": "D001",
+        "time_slot": "2026-09-16 10:00",
+        "status": "cancelled"
+    },
+    {
+        "appointment_id": "A002",
+        "patient_id": "P002",
+        "doctor_id": "D002",
+        "time_slot": "2026-09-16 11:00",
+        "status": "completed"
+    },
+    {
+        "appointment_id": "A003",
+        "patient_id": "P04",
+        "doctor_id": "D003",
+        "time_slot": "2026-09-16 11:00",
+        "status": "cancelled"
+    },
+    {
+        "appointment_id": "A005",
+        "patient_id": "P005",
+        "doctor_id": "D004",
+        "time_slot": "2026-09-17 12:00",
+        "status": "cancelled"
+    },
+    {
+        "appointment_id": "A004",
+        "patient_id": "P006",
+        "doctor_id": "D005",
+        "time_slot": "2026-09-17 04:00",
+        "status": "completed"
+    }
+]

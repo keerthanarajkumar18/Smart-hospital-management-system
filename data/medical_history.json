@@ -1,0 +1,16 @@
+{
+    "P006": [
+        {
+            "visit_date": "2026-09-17",
+            "doctor_id": "D005",
+            "diagnosis": "High BP",
+            "notes": "Medication Provided"
+        },
+        {
+            "visit_date": "2026-09-15",
+            "doctor_id": "D005",
+            "diagnosis": "Mild pain",
+            "notes": "ECG "
+        }
+    ]
+}

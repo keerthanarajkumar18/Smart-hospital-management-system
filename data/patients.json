@@ -1,0 +1,50 @@
+[
+    {
+        "patient_id": "P001",
+        "name": "John",
+        "age": 30,
+        "gender": "Male",
+        "phone": "9999999999",
+        "medical_history": null
+    },
+    {
+        "patient_id": "P002",
+        "name": "Alice",
+        "age": 25,
+        "gender": "Female",
+        "phone": "8888888888",
+        "medical_history": null
+    },
+    {
+        "patient_id": "P003",
+        "name": "Robert",
+        "age": 45,
+        "gender": "Male",
+        "phone": "7777777777",
+        "medical_history": null
+    },
+    {
+        "patient_id": "P04",
+        "name": "Jack",
+        "age": 40,
+        "gender": "Male",
+        "phone": "9876509876",
+        "medical_history": null
+    },
+    {
+        "patient_id": "P006",
+        "name": "Ram",
+        "age": 23,
+        "gender": "Male",
+        "phone": "9087654332",
+        "medical_history": null
+    },
+    {
+        "patient_id": "P009",
+        "name": "John",
+        "age": 30,
+        "gender": "Male",
+        "phone": "9976325899",
+        "medical_history": null
+    }
+]
